@@ -30,6 +30,13 @@ I learnt how to:
   -  fine-tune the styling of Matplotlib charts by using limits, labels, linewidth and colours
   -  use .grid() to help visually identify seasonality in a time series.
 
+## Day 5
+I learnt how to:
+- pull a random sample from a DataFrame using .sample()
+- find duplicated entries with .duplicated() and .drop_duplicates()
+- convert string and object data types into numbers with .to_numeric()
+- use plotly to generate pie, donut and bar charts as well as box and scatter plots
+
 
 
 
