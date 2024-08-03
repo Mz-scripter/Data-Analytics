@@ -37,6 +37,16 @@ I learnt how to:
 - convert string and object data types into numbers with .to_numeric()
 - use plotly to generate pie, donut and bar charts as well as box and scatter plots
 
+## Day 6
+I learnt how to:
+- create arrays with np.array()
+- generate arrays using .arange(), .random() and .linspace()
+- analyse the shape and dimensions of ndarray
+- slice and subset a ndarray based on its indices
+- do linear algebra like operations with scalars and matrix multiplication
+- use NumPy's broadcasting to make ndarrays shapes compatible
+- manipulate images in the form ndarrays
+
 
 
 
