@@ -47,6 +47,12 @@ I learnt how to:
 - use NumPy's broadcasting to make ndarrays shapes compatible
 - manipulate images in the form ndarrays
 
+## Day 7
+I learnt how to:
+- use nested loops to remove unwanted characters from multiple columns
+- create bubble charts using Seaborn library
+- filter Pandas DataFrame based on multiple conditions using both .loc[] and .query()
+
 
 
 
