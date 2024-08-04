@@ -52,6 +52,10 @@ I learnt how to:
 - use nested loops to remove unwanted characters from multiple columns
 - create bubble charts using Seaborn library
 - filter Pandas DataFrame based on multiple conditions using both .loc[] and .query()
+- style Seaborn charts using the pre-built styles and by modifying Matplotlib parameters
+- use floor division to convert years to decades
+- use Seaborn to superimpose a linear regression over our data
+- run regressions with scikit-learn and calculate the coefficients 
 
 
 
