@@ -55,7 +55,14 @@ I learnt how to:
 - style Seaborn charts using the pre-built styles and by modifying Matplotlib parameters
 - use floor division to convert years to decades
 - use Seaborn to superimpose a linear regression over our data
-- run regressions with scikit-learn and calculate the coefficients 
+- run regressions with scikit-learn and calculate the coefficients
+
+## Day 8
+I learnt how to:
+- create a Choropleth to display data on a map
+- create bar charts showing different segments of the data with plotly
+- create Sunburst charts with plotly.
+- use Seaborn's .lmplot() and show best-fit lines across multiple categories using the row, hue, and lowess parameters
 
 
 
