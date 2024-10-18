@@ -16,7 +16,7 @@ I learnt how to:
 - create a linear chart with two seperate axes to visualize data that have different scales
 - create a scatter plot and Bar chart in Matplotlib
 - work with tables in a relational database by using primary and foreign keys
-- merge() DataFrames along a particular column
+- merge() DataFrames along a particular column. 
 
 ## Day 4
   I learnt how to:
